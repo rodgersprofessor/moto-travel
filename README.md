@@ -1,11 +1,6 @@
 # \# Moto Travel 🏍️
 
-# 
-
 # Moto Travel is a motorcycle riding game built with Flutter. Players can ride a motorcycle, control its movement, avoid obstacles, and enjoy a simple riding experience.
-
-# 
-
 # \## Features
 
 # 
